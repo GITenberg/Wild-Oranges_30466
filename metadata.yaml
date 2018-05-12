@@ -1,0 +1,30 @@
+_repo: Wild-Oranges_30466
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hergesheimer, Joseph
+    birthdate: 1880
+    deathdate: 1954
+    gutenberg_agent_id: '2218'
+    url: http://www.gutenberg.org/2009/agents/2218
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Hergesheimer
+description: This gripping hybrid of adventure and romance, originally published in
+  the 1918 collection Gold and iron, is about a man's attempt to escape the stultifying
+  confines of civilization. During his journey in the orange groves of the Georgia
+  coast, he meets a woman who will change his life.
+gutenberg_issued: '2009-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30466'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: Wild Oranges
+url: http://www.gutenberg.org/ebooks/30466
